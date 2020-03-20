@@ -7,5 +7,11 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "jsonpath": "^1.0.2",
+    "level": "^6.0.1",
+    "level-sublevel": "^6.6.5",
+    "multilevel": "^7.2.3"
+  }
 }
